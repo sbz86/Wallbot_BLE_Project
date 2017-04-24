@@ -1,4 +1,0 @@
-#Sun Apr 23 12:59:12 BST 2017
-base.0=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
