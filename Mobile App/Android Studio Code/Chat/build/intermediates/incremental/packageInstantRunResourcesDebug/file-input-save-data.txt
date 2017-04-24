@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sat Feb 18 17:26:07 GMT 2017
+2.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\device_list.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\bletest.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\redbear.png
+5.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_item.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\second.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\loading_process_dialog_anim.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\MyAsus\\Desktop\\Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\red_button.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
